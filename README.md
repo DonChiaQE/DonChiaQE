@@ -40,7 +40,7 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 - Various school projects...
 
 ### Find me at...
-[My Website!](www.donchia.tech) <br>
+[My Website!](https://www.donchia.tech) <br>
 Drop a mail to me through my website, simply click on the mail icon, type your message and send it!
 
 <!--
