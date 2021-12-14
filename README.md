@@ -26,8 +26,8 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 <a href="https://donchia.tech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhs17y2adonchia&langs_count=7&exclude_repo=marketplace&layout=compact" />
 </a>
-<a href="https://github.com/dhs17y2adonchia/portfolio-macos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhs17y2adonchia&repo=portfolio-macos" />
+<a href="https://github.com/dhs17y2adonchia/win95">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhs17y2adonchia&repo=win95" />
 </a>
 <a href="https://github.com/zaydek/duomo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhs17y2adonchia&repo=duomo" />
