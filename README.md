@@ -36,6 +36,7 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 ### Currently Working On...
 - NOSSSAFLEX iOS/Android App
 - NOSSAFLEX Web App
+- AmityConnect iOS App
 - WWDC 2021
 - Various school projects...
 
