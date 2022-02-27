@@ -37,6 +37,7 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 - NOSSSAFLEX iOS/Android App
 - AmityConnect iOS App
 - WWDC 2022
+- VueOS Open Source Project
 - Various freelance projects...
 
 ### Find me at...
