@@ -1,6 +1,16 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hello there! I am Don from Singapore and I am an 18 year old student who's extremely passionate in both programming and design for both the web and iOS platform. I am currently still a student in high school but let not my age be the key defining factor as I often aim to punch above my weight.
+# Hey there! 👋
+Hello there! I am Don from Singapore and I am an 19 year old student who's extremely passionate in both programming and design for both the web and iOS platform. I am currently still a student in high school but let not my age be the key defining factor as I often aim to punch above my weight.
 I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
+
+### Experiences and Achievements
+- WWDC Scholar 2021
+- WWDC Scholar 2022
+- Founder and iOS Chief Frontend Developer at NOSSAFLEX (2021)
+- Co-Founder, Lead iOS Designer and Lead Frontend Developer at AmityConnect (2021)
+- Frontend Web Developer at Fundigo (2022)
+- Intern Frontend Web Developer at WiseGo (2020)
+- Intern Frontend iOS Developer at Reachfield (2020)
+- National Robotics Competition Winner Content and Presentation (2018)
 
 ### Technologies & Tools
 <div style="display: flex">
