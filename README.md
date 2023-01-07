@@ -3,8 +3,8 @@ Hello there! I am Don from Singapore and I am an 19 year old student who's extre
 I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
 
 ### Experiences and Achievements
-- WWDC Scholar 2021
-- WWDC Scholar 2022
+- Appl WWDC Scholar 2021
+- Appl WWDC Scholar 2022
 - Founder and iOS Chief Frontend Developer at NOSSAFLEX (2021)
 - Co-Founder, Lead iOS Designer and Lead Frontend Developer at AmityConnect (2021)
 - Frontend Web Developer and App Designer at Fundigo (2022)
