@@ -46,7 +46,9 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 ### Currently Working On...
 - NOSSSAFLEX iOS/Android App
 - Fundigo
-- WWDC 2023
+- WWDC 2024 SSC
+- New iOS 17/VisionOS SwiftData App
+- FOSSASIA EventYay
 - VueOS Open Source Project
 - Various freelance projects...
 
