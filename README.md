@@ -3,19 +3,20 @@ Hello there! I am Don from Singapore and I am a 20 year old student who's extrem
 I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
 
 ### Experiences and Achievements
-- **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (2021)
-- **Co-Founder, Lead iOS Designer and Lead Frontend Developer** at AmityConnect (2021)
-- **Pioneer Frontend Web Developer and App Designer** at Fundigo (2022)
-- **Apple WWDC Scholar 2021**
-- **Apple WWDC Scholar 2022**
-- Intern Frontend Web Developer at WiseGo (2020)
-- Intern Frontend iOS Developer at Reachfield (2020)
-- National Robotics Competition Winner Content and Presentation (2018)
+- **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (USA, Australia, Singapore)
+- **Co-Founder, Lead iOS Designer and Lead Frontend Developer** at AmityConnect (Virginia, USA)
+- **iOS Engineer** at Current Mobility (California, USA)
+- **Frontend Web Developer, App Designer & Project Manager** at Fundigo (Singapore, Singapore)
+- **Apple WWDC Scholar 2021** (International)
+- **Apple WWDC Scholar 2022** (International)
+- Intern Frontend Web Developer at WiseGo (Singapore, Singapore)
+- Intern Frontend iOS Developer at Reachfield (Singapore, Singapore)
+- National Robotics Competition Winner Content and Presentation (Singapore, Singapore)
 
 ### Technologies & Tools
 <div style="display: flex">
-  <img src="https://img.shields.io/badge/-Swift-orange"/>
-  <img src="https://img.shields.io/badge/-Python-blue"/>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-orange"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-lightgrey" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-critical" />
