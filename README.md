@@ -1,9 +1,9 @@
 # Hey there! 👋
-Hello there! I am Don from Singapore and I am a 20 year old student who's extremely passionate in both programming and design for both the web and iOS platform.
+Hello there! I am Don from Singapore and I am a 20-year-old software engineer who's extremely passionate about both programming and design for both the web and iOS platforms.
 I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
 
 ### Experiences and Achievements
-- **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (USA, Australia, Singapore)
+- **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (USA, Australia & Singapore)
 - **Co-Founder, Lead iOS Designer and Lead Frontend Developer** at AmityConnect (Virginia, USA)
 - **iOS Engineer** at Current Mobility (California, USA)
 - **Frontend Web Developer, App Designer & Project Manager** at Fundigo (Singapore, Singapore)
