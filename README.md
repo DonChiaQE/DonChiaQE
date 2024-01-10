@@ -24,6 +24,7 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
   <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-3e8bc3" />
   <img alt="Vue" src="https://img.shields.io/badge/-VueJS-61b083" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React Native-yellow" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-406893" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4ca158" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-64a2c9" />
