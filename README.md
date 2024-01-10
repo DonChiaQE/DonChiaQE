@@ -6,7 +6,7 @@ I have worked with a mixture of design and frontend/backend technologies, be it 
 - **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (USA, Australia & Singapore)
 - **Co-Founder, Lead iOS Designer, and Lead Frontend Developer** at AmityConnect (Virginia, USA)
 - **iOS Engineer** at Current Mobility (California, USA)
-- **React Native & Vue.JS Engineer, and Lead UI/UX Designer** at Ministry of Defense (Singapore, SG)
+- **React Native and Vue.JS Engineer, and Lead UI/UX Designer** at Ministry of Defence (Singapore, SG)
 - **Frontend Web Developer, App Designer & Project Manager** at Fundigo (Singapore, SG)
 - **Apple WWDC Scholar 2021** (International)
 - **Apple WWDC Scholar 2022** (International)
