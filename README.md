@@ -1,5 +1,5 @@
 # Hey there! 👋
-Hello there! I am Don from Singapore and I am a 20-year-old software engineer who's extremely passionate about both programming and design for both the web and iOS platforms.
+Hello there! I am Don from Singapore and I am a 21-year-old software engineer who's extremely passionate about both programming and design for both the web and iOS platforms.
 I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
 
 ### Experiences and Achievements
