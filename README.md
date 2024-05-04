@@ -1,6 +1,13 @@
 # Hey there! 👋
-Hello there! I am Don from Singapore and I am a 21-year-old software engineer who's extremely passionate about both programming and design for both the web and iOS platforms.
-I have worked with a mixture of design and frontend/backend technologies, be it for Web Development or iOS Development.
+I’m a 21 year old software engineer who’s a React Native and Vue.JS engineer by day but a native iOS developer by night. Crafting impactful software that serves my community and people around me is my passion.
+
+I thrive on staying updated with the latest design trends and development frameworks across all platforms. While my heart lies in native app design and development, I also excel in cross-platform app and web development, which keeps the bills paid.
+
+At 17, I co-founded NOSSAFLEX with developers from Australia and the US. Since then, it has garnered attention, being featured on local television, Apple’s annual Entrepreneur Camp, and earning a nomination from Apple’s regional team for their annual design awards.
+
+Having collaborated with diverse companies worldwide, from e-commerce to art and design industries, I've honed the ability to manage multiple projects simultaneously across various time zones.
+
+In my spare time, I indulge in scrolling through analog camera listings or admiring my collection, although shooting has taken a backseat due to my various work commitments.
 
 ### Experiences and Achievements
 - **Founder and iOS Chief Frontend Developer** at NOSSAFLEX (USA, Australia & Singapore)
