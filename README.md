@@ -14,6 +14,7 @@ In my spare time, I indulge in scrolling through analog camera listings or admir
 - **Co-Founder, Lead iOS Designer, and Lead Frontend Developer** at AmityConnect (Virginia, USA)
 - **iOS Engineer** at Current Mobility (California, USA)
 - **React Native and Vue.JS Engineer, and Lead UI/UX Designer** at Ministry of Defence (Singapore, SG)
+- **Web Engineer** at Starbloom (North Carolina, USA)
 - **Frontend Web Developer, App Designer & Project Manager** at Fundigo (Singapore, SG)
 - **Apple WWDC Scholar 2021** (International)
 - **Apple WWDC Scholar 2022** (International)
