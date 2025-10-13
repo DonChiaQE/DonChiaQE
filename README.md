@@ -64,11 +64,8 @@ SwiftUI + MapKit app for EV charging discovery. Supported funding milestones.
 
 ### Currently Working On
 - **Randamu Anime** — Marketplace and events platform for creators  
-- **NOSSAFLEX** — iOS/Android tool for analog photographers  
-- **New VisionOS Project** — Spatial computing and SwiftData experiments  
-- **Fundigo** — Cross-platform commerce portal for merchants  
-- **FOSSASIA EventYay** contributions  
-- **VueOS** — Community-driven open-source desktop interface  
+- **New VisionOS Project** — Spatial computing and RealityKit experiments
+- **Web commissions** — Customized Vue systems tailored for Small/Medium Enterprises 
 
 ---
 
