@@ -72,4 +72,4 @@ SwiftUI + MapKit app for EV charging discovery. Supported funding milestones.
 ### Find Me At
 - **Portfolio:** [donchia.tech](https://www.donchia.tech)  
 - **LinkedIn:** [linkedin.com/in/donchia](https://linkedin.com/in/donchia)  
-- **Email:** [chiaqiendon@icloud.com](mailto:chiaqiendon@icloud.com)  
+- **Email:** [hello@donchia.tech](mailto:hello@donchia.tech)  
